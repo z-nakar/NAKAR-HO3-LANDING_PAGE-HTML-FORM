@@ -477,7 +477,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/Images/slide3-updated.jpg'); /* Background image */
+    background-image: url('Images/slide3-updated.jpg'); /* Background image */
     background-size: cover;
     background-repeat: no-repeat;
     color: #e58f00;
